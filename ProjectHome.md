@@ -1,0 +1,1 @@
+Are you crazy enough to want Pidgin to sound like a typewriter when you type?  Then you're crazy enough to want this horrible plugin!
